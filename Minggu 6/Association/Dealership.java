@@ -14,11 +14,8 @@ public class Dealership {
         this.location = location;
     }
 
-   
-
     List<Car> cars;
     
-
     public List<Car> getCars() {
         return this.cars;
     }
