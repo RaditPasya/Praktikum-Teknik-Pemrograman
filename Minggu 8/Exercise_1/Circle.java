@@ -19,6 +19,13 @@ radius = r;
 color = "red";
 }
 
+/** Constructs a Circle instance with the given radius and color */
+public Circle(double r, String colour) { // 3rd constructor
+    radius = r;
+    color = colour;
+    }
+
+
 /** Returns the radius */
 public double getRadius() {
 return radius;
@@ -34,4 +41,19 @@ public String toString() {
 return "Circle[radius=" + radius + " color=" + color + "]";
 }
     
+    public void setRadius(double radius) {
+        this.radius = radius;
+    }
+
+    public String getColor() {
+        return this.color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
+
+
+
 }
