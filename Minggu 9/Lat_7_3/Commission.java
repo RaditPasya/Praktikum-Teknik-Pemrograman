@@ -2,8 +2,8 @@ package Lat_7_3;
 
 public class Commission extends Hourly {
 
-    double totalSales;
-    double comRate;
+    private double totalSales;
+    private double comRate;
 
     public Commission(String eName, String eAddress, String ePhone, String socSecNum, double rate, double comrate){
         super(eName, eAddress, ePhone, socSecNum, rate );
