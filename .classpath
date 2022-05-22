@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Minggu 12/src"/>
+	<classpathentry kind="src" path="Minggu 3/Soal 1"/>
+	<classpathentry kind="src" path="Minggu 3/Soal 2"/>
+	<classpathentry kind="src" path="Minggu 3/Soal 3"/>
+	<classpathentry kind="src" path="Minggu 3/Soal 4"/>
+	<classpathentry kind="src" path="Minggu 3/soal 5"/>
+	<classpathentry kind="src" path="Minggu 3/Soal 6"/>
+	<classpathentry kind="src" path="Minggu 3/Soal 7"/>
+	<classpathentry kind="src" path="Minggu 4"/>
+	<classpathentry kind="src" path="Minggu 5/Case Study 2/Case Study 2/src"/>
+	<classpathentry kind="src" path="Minggu 5/src"/>
+	<classpathentry kind="src" path="Minggu 6"/>
+	<classpathentry kind="src" path="Minggu 7/src"/>
+	<classpathentry kind="src" path="Minggu 8"/>
+	<classpathentry kind="src" path="Minggu 9"/>
+	<classpathentry kind="output" path="Minggu 12/bin"/>
+</classpath>
