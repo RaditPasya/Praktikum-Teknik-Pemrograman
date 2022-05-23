@@ -9,7 +9,7 @@ public class PropertyCellInfoFormatter implements CellInfoFormatter {
     public String format(Cell cell) {
         PropertyCell c = (PropertyCell)cell;
         StringBuffer buf = new StringBuffer();
-        Player owner = ((OwnedCell) cell).getOwner();
+        Player owner = c.getOwner();
         String ownerName = "";
         if(owner != null) {
         	ownerName = owner.getName();
